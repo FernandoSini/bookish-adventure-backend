@@ -1,4 +1,4 @@
-package com.fernandosini.storeapikotlin.adapters
+package br.com.flemis.bookishadventure.adapters
 
 import org.modelmapper.ModelMapper
 
